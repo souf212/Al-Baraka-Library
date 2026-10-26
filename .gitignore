@@ -1,0 +1,8 @@
+target/
+data/
+backups/
+.tools/
+.env
+*.log
+__pycache__/
+SMOKE_RESULTS.json
